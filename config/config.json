@@ -1,0 +1,45 @@
+{
+  "development": {
+    "username": "caiords",
+    "password": "eYriaG2CtSrDMutOKGTHO7DNlUycXs2o",
+    "database": "curriculo_aos",
+    "host": "dpg-ct3p0752ng1s739vpn1g-a.oregon-postgres.render.com",
+    "port": 5432,
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "test": {
+    "username": "caiords",
+    "password": "eYriaG2CtSrDMutOKGTHO7DNlUycXs2o",
+    "database": "curriculo_aos",
+    "host": "dpg-ct3p0752ng1s739vpn1g-a.oregon-postgres.render.com",
+    "port": 5432,
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "production": {
+    "username": "caiords",
+    "password": "eYriaG2CtSrDMutOKGTHO7DNlUycXs2o",
+    "database": "curriculo_aos",
+    "host": "dpg-ct3p0752ng1s739vpn1g-a.oregon-postgres.render.com",
+    "port": 5432,
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
+
